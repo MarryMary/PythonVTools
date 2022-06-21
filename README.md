@@ -1,2 +1,2 @@
-# PythonVTools
-Add PHP like function for Python Scripts
+# VTools
+PythonでPHP関数と同等の働きを行うようにします。
